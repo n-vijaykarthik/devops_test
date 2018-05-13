@@ -4,6 +4,3 @@ Added using git and now editing the file with sample data...
 
 Adding one more line for commiting
 
-"now new line for changing the data and edit the file once again!!!!!"
-
-
