@@ -4,5 +4,7 @@ Added using git and now editing the file with sample data...
 
 Adding one more line for commiting
 
-"Updating from Local repo... testing the repos again..."
 
+"Updating on Git hub directly...."
+
+"Updating from Local repo... testing the repos again..."
